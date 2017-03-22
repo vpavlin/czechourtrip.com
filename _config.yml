@@ -6,3 +6,6 @@ twitter_username: czechpairtravel
 author:
   name:       Marťa & Vašek
   url:        http://czechpairtravel.com
+
+github:
+  is_project_page: false
