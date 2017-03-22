@@ -1,5 +1,3 @@
-{% include local.css %}
-
 # Czech Pair Travel
 
 * [Youtube Channel](https://www.youtube.com/channel/UCE2ijMFqlvmP_qSO9GAm2yg)
